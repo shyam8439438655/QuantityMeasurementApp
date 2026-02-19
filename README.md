@@ -35,8 +35,8 @@ Test Driven Development (TDD). Addressed UC1 (Feet Equality) to handle feet meas
 Equality (UC2), allowing comparison of inch values with 100% test coverage.
 
 
-[Browse UC1 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC1-FeetEquality)
-Browse UC2 Implementation
+        -[Browse UC1 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC1-FeetEquality)  
+        -[Browse UC2 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC2-FeetAndInchesMeasurementEquality)
 
 _______________________________________________________________________________________________________________________________________________
 19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended 
