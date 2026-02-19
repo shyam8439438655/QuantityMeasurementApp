@@ -1,6 +1,10 @@
-QuantityMeasurementApp
+                                                                             QuantityMeasurementApp
+____________________________________________________________________________________________________________________________________________
 
-This log documents the daily progress of tasks completed during the Quantity Measurement App development, identifying work done on each date with thematic headings and detailed summaries.
+This log documents the daily progress of tasks completed during the Quantity Measurement App development, identifying work done on each date 
+with thematic headings and detailed summaries.
+____________________________________________________________________________________________________________________________________________
+
 
 Folder Structure
 The repository is organized in a modular way following the standard Maven directory structure.
@@ -24,14 +28,19 @@ QuantityMeasurementApp/
 Week 1: Quantity Measurement System
 TDD Approach & Unit Conversion
 
-. 18-Feb-2026 (Wednesday): Created the repository and set up the project structure. Started implementing the Quantity Measurement System using Test Driven Development (TDD). Addressed UC1 (Feet Equality) to handle feet measurement comparisons. Extended functionality to support Inches Equality (UC2), allowing comparison of inch values with 100% test coverage.
+_______________________________________________________________________________________________________________________________________________
+
+- 18-Feb-2026 (Wednesday): Created the repository and set up the project structure. Started implementing the Quantity Measurement System using 
+Test Driven Development (TDD). Addressed UC1 (Feet Equality) to handle feet measurement comparisons. Extended functionality to support Inches
+Equality (UC2), allowing comparison of inch values with 100% test coverage.
 
 
 [Browse UC1 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC1-FeetEquality)
 Browse UC2 Implementation
 
-
-19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended the system to support Yard and Centimeter units (UC4) with comprehensive test coverage for cross-unit comparisons.
+_______________________________________________________________________________________________________________________________________________
+19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended 
+the system to support Yard and Centimeter units (UC4) with comprehensive test coverage for cross-unit comparisons.
 
 Browse UC3 Implementation
 Browse UC4 Implementation
