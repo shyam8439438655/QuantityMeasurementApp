@@ -39,8 +39,9 @@ Equality (UC2), allowing comparison of inch values with 100% test coverage.
   [Browse UC2 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC2-FeetAndInchesMeasurementEquality)
 
 _______________________________________________________________________________________________________________________________________________
-19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended 
+
+- 19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended 
 the system to support Yard and Centimeter units (UC4) with comprehensive test coverage for cross-unit comparisons.
 
-Browse UC3 Implementation
-Browse UC4 Implementation
+ [Browse UC3 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC3-GenericQuantity)
+ [Browse UC4 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC4-ExtendedUnitSupport)
