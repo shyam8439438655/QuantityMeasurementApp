@@ -1,4 +1,4 @@
-                                                                             QuantityMeasurementApp
+# QuantityMeasurementApp
 ____________________________________________________________________________________________________________________________________________
 
 This log documents the daily progress of tasks completed during the Quantity Measurement App development, identifying work done on each date 
@@ -43,5 +43,5 @@ ________________________________________________________________________________
 - 19-Feb-2026 (Thursday): Refactored the code to use a generic Quantity class and LengthUnit enum (UC3), implementing the DRY principle. Extended 
 the system to support Yard and Centimeter units (UC4) with comprehensive test coverage for cross-unit comparisons.
 
- [Browse UC3 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC3-GenericQuantity)
+ [Browse UC3 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC3-GenericQuantity)  
  [Browse UC4 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC4-ExtendedUnitSupport)
