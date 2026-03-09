@@ -45,3 +45,9 @@ the system to support Yard and Centimeter units (UC4) with comprehensive test co
 
      [Browse UC3 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC3-GenericQuantity)  
      [Browse UC4 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC4-ExtendedUnitSupport)
+
+________________________________________________________________________________________________________________________________________________
+
+- 09-March-2026 (Monday): Implemented unit-to-unit conversions between different length units (UC5). Added convert() and convertTo() methods to the Quantity class and ensured robust input validation and floating-point precision compatibility across comprehensive test cases
+
+  [Browse UC5 Implimentation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC5-UnitConversion)
