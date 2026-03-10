@@ -56,8 +56,8 @@ ________________________________________________________________________________
 
 - 09-Mar-2026 (Monday): Expanded system capabilities drastically by adding quantity addition (UC6 & UC7), improving entity cohesion by refactoring LengthUnit (UC8), supporting a secondary WeightUnit category (UC9), and finally refactoring the entire architecture to completely generic Quantity<U extends IMeasurable> bounds, solving categorical duplication (UC10).
 
-  [Browse UC6 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC6-Addition)
-  [Browse UC7 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC7-AdditionWithTargetUnit)
-  [Browse UC8 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC8-EnumRefactoring)
-  [Browse UC9 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC9-WeightMeasurement)
-  [Browse UC10 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC10-GenericQuantity)
+  [Browse UC6 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC6-Addition) <br>
+  [Browse UC7 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC7-AdditionWithTargetUnit) <br>
+  [Browse UC8 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC8-EnumRefactoring) <br>
+  [Browse UC9 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC9-WeightMeasurement) <br>
+  [Browse UC10 Implementation](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/feature/UC10-GenericQuantity) <br>
