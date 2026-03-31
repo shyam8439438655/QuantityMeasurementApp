@@ -1,6 +1,9 @@
-QuantityMeasurementApp
+# QuantityMeasurementApp
 ___________________________________________________________________________________________________________________________________
-This log documents the daily progress of tasks completed during the Quantity Measurement App development, identifying work done on each date with thematic headings and detailed summaries.
+This log documents the daily progress of tasks completed during the Quantity Measurement App development, identifying work done on 
+each date with thematic headings and detailed summaries.
+
+___________________________________________________________________________________________________________________________________
 
 Folder Structure
 The repository is organized in a modular way following the standard Maven directory structure.
