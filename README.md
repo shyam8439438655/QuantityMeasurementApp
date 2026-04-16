@@ -62,11 +62,10 @@ QuantityMeasurementApp/
 ## Project Continuation After UC18
 
 *   **UC19-UC20 (Frontend):** Implemented in separate repository as approved.
-    *   [Frontend Repository](https://github.com/skyy4/QuantityMeasurementApp-Frontend)
-    *   [UC19 branch (html-css-js)](https://github.com/skyy4/QuantityMeasurementApp-Frontend/tree/html-css-js)
-    *   [UC20 branch (react)](https://github.com/skyy4/QuantityMeasurementApp-Frontend/tree/react)
+    *   [Frontend Repository](https://github.com/shyam8439438655/QuantityMeasurementApp-Frontend)
+    *   [UC19 branch (html-css-js)](https://github.com/shyam8439438655/QuantityMeasurementApp-Frontend/tree/html-css-js-practice)
+    *   [UC20 branch (react)](https://github.com/shyam8439438655/QuantityMeasurementApp-Frontend/tree/angular-practice)
 
 *   **UC21 (Microservices Architecture):** Implemented directly in this repository under `microservices/`.
-    *   [Microservices Folder](https://github.com/skyy4/QuantityMeasurementApp/tree/main/microservices)
+    *   [Microservices Folder](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/main/microservices)
 
-*   **UC22 (CI/CD + Cloud Deployment):** Implemented and validated with Docker/Jenkins/cloud deployment flow. Final deployment auth flow uses JWT.
