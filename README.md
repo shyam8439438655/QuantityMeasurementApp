@@ -69,3 +69,6 @@ QuantityMeasurementApp/
 *   **UC21 (Microservices Architecture):** Implemented directly in this repository under `microservices/`.
     *   [Microservices Folder](https://github.com/shyam8439438655/QuantityMeasurementApp/tree/main/microservices)
 
+*   [Frontend App Deployed URL](https://quantity-measurement-app-frontend-psi.vercel.app/) <br>
+*   [Backend App Deployed URL](https://quantitymeasurementapp-3-7oxa.onrender.com/) <br>
+*   [Swagger URL](http://localhost:8082/swagger-ui/index.html)
